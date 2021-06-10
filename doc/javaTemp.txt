@@ -1,0 +1,9 @@
+START:
+right click v papke, otkrit git, napisat ./run.sh
+=====================================
+WAIT + CLEAR:
+Thread.sleep(1000); 
+System.out.print("\033[H\033[2J");
+System.out.flush();
+====================================
+
